@@ -1,7 +1,10 @@
 # Hi, I'm Effy.
  
+### `whoami`
 
-## `whoami` 
+Current problem: How to detect (ideally automated) and remove cyberbullying from a fully anonymous space?
+
+### `ls` 
 
 I'm a **software developer, cyber security consultant, and movement therapist** (personal trainer with a focus on using movement patterns to shift thought patterns). 
 
@@ -13,37 +16,31 @@ I come from the humanities where the ethics -- not ego --of what you create info
 
 I have a proven track record of project success.
 
-## `cd ./Photos`
-
-### Here is a highly unprofessional photo of me where you can't really see what I look like because (1) #security and (2) what is this? Linkedin? No, this is my static web page made to avoid directing you to Linkedin all the time. 
+### `cd ./Photos`
 
 [![aed7ed58-7d9b-4fea-b319-1ced080bc7b4.jpg](https://i.postimg.cc/cCGGFs1j/aed7ed58-7d9b-4fea-b319-1ced080bc7b4.jpg)](https://postimg.cc/8J4Y5g6B)
 
 Mask by Yvie Oddly, the S11 lovable creative weirdo of Drag Race.
 
-## `cd ./Desktop`
-
-### What I'm currently working on:
+### `cd ./Desktop`
 
 **Prophecy** is an e2e encrypted and anonymous Whisper network for gender minorities, BIPOC, and LGBTQIA in STEM to discuss encounters with power without fear of reprecussions. 
 
 Learn more about **Prophecy** here: https://write.as/riwq8jhgr1j0tw6q.md
-
-We are currently seeking informal user interviews. If you are a gender minority in STEM, especially SWE, infosec, EE, Nuclear E, or academia, please don't hesitate to voice your existence to us because we want to make sure the project addresses YOUR lived needs.
 
 **Day Off:** is an app that helps you connect with your community's needs and volunteer opportunities. 
 
 Prototype development Summer 2022. Alpha testers in GTA high schools Fall 2022.
 
 
-## `cd ./Documents`
+### `cd ./Documents`
 
 https://www.linkedin.com/in/effy-min-25156a228/
 
 https://github.com/yffenim
 
 
-## `vim .bash_history`
+### `vim .bash_history`
 
 **2022-present** - Cybersecurity Consulting for individuals and small enterprises; Developer and contributer to open source software. 
 
@@ -52,13 +49,9 @@ https://github.com/yffenim
 **2014-2017** - Co-founder and Executive Directory of Bad Subject, a grassroots non-profit that offers activities-based workshops on Consent, Media Literacy, and Anti-Oppression. We created teaching material after Consent was added to the curriculum and worked with legal reps to rehabilitate convicts.
 
 
-## `ls -alh`
+### `ls -alh`
 
-### Currently on my mind: 
-
-How do detect (ideally automated) and remove cyberbullying from a fully anonymous space?
-
-### Topics of interest we might have in common that could led to a nice friendship or at least a satisfying conversation:
+**Topics of interest we might have in common that could led to a nice friendship or at least a satisfying conversation:**
 - change
 - the literary canon, esp DFW
 - the post-colonial literary canon, post-apartheid SA
