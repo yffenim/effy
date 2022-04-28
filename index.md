@@ -3,22 +3,35 @@
 
 ## `whoami` 
 
-I'm a **software developer, cyber security consultant, and movement therapist** (personal trainer with a focus on using movement patterns to shift thought patterns). I co-founded a nonprofit that addresses the lack of Consent education. I have produced and launched multiple artists and grassroots groups. I have also climbed 5.12s on lead on slimestone. Now I am doing my best to shift that thirst for hedeonism into a drive for **effective altriusm-based enrepreneurship**. No, this is not techno-utopianism garbage talk but you are right to be skeptical. 
+I'm a **software developer, cyber security consultant, and movement therapist** (personal trainer with a focus on using movement patterns to shift thought patterns). 
 
-I come from the humanities where the ethics -- not ego --of what you create informs your decision to do so. An avid reader and over-thinker, I believe in 
-leveraging the current ease and accessibility for developing software (anyone with internet access can make their idea come into existence barring moonshots) towards projects that address the existential risks of our time: the consolidation of authoritarian power and climate change.
+I co-founded a nonprofit that addresses the lack of Consent education. I have produced and launched multiple artists and grassroots groups. I have also climbed 5.12s on lead on slimestone. 
+
+Now I am doing my best to shift that thirst for hedeonism into a drive for **effective altriusm-based enrepreneurship**. No, this is not techno-utopianism garbage talk but you are right to be skeptical. 
+
+I come from the humanities where the ethics -- not ego --of what you create informs your decision to do so. An avid reader and over-thinker, I believe in leveraging the current ease and accessibility for developing software (anyone with internet access can make their idea come into existence barring moonshots) towards projects that address the existential risks of our time: the consolidation of authoritarian power and climate change.
 
 I have a proven track record of project success.
 
+## `cd ./Photos`
+
+### Here is a highly unprofessional photo of me where you can't really see what I look like because (1) #security and (2) what is this? Linkedin? No, this is my static web page made to avoid directing you to Linkedin all the time. 
+
+[![aed7ed58-7d9b-4fea-b319-1ced080bc7b4.jpg](https://i.postimg.cc/cCGGFs1j/aed7ed58-7d9b-4fea-b319-1ced080bc7b4.jpg)](https://postimg.cc/8J4Y5g6B)
+
+Mask by Yvie Oddly, the S11 lovable creative weirdo of Drag Race.
+
 ## `cd ./Desktop`
 
-### Prophecy: an e2e encrypted and anonymous Whisper network for gender minorities, BIPOC, and LGBTQIA in STEM to discuss encounters with power without fear of reprecussions. 
+### What I'm currently working on:
+
+**Prophecy** is an e2e encrypted and anonymous Whisper network for gender minorities, BIPOC, and LGBTQIA in STEM to discuss encounters with power without fear of reprecussions. 
 
 Learn more about **Prophecy** here: https://write.as/riwq8jhgr1j0tw6q.md
 
 We are currently seeking informal user interviews. If you are a gender minority in STEM, especially SWE, infosec, EE, Nuclear E, or academia, please don't hesitate to voice your existence to us because we want to make sure the project addresses YOUR lived needs.
 
-### Day Off: an app that helps you connect with your community's needs and volunteer opportunities. 
+**Day Off:** is an app that helps you connect with your community's needs and volunteer opportunities. 
 
 Prototype development Summer 2022. Alpha testers in GTA high schools Fall 2022.
 
@@ -72,12 +85,4 @@ How do detect (ideally automated) and remove cyberbullying from a fully anonymou
 
 Topics I cannot talk about, hear about, or look at your pictures thereof or I will stop doing work:
 - rock climbing
-
-## `cd ./Photos`
-
-### Here is a highly unprofessional photo of me where you can't really see what I look like because (1) #security and (2) what is this? Linkedin? No, this is my static web page made to avoid directing you to Linkedin all the time. 
-
-[![signal-2022-04-28-042234-001.jpg](https://i.postimg.cc/kG5fJqzh/signal-2022-04-28-042234-001.jpg)](https://postimg.cc/G8Zkzwck)
-
-Mask by Yvie Oddly, the S11 lovable creative weirdo of Drag race.
 
