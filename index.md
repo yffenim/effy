@@ -13,7 +13,7 @@ Yes, I know this page is weirdly formatted. It was free, fast, and "the standard
 
 I'm a **software developer, cyber security consultant, and movement therapist** (personal trainer with a focus on using movement patterns to shift thought patterns). 
 
-**I co-founded a nonprofit** that addresses the lack of Consent education. I have **produced and launched multiple artists and grassroots groups**, including the Canadian Polaris Prize winner singer Lido Pimienta and the Where Are You From Collective who run Toronto's Asian Zine Fair and Chinatown History walk. I have also climbed 5.12s on lead on slimestone. 
+**I co-founded a nonprofit** that addresses the lack of Consent education. I have **produced and launched multiple artists and grassroots groups**, including the Canadian Polaris Prize winner singer Lido Pimienta and the Where Are You From Collective who run Toronto's Asian Zine Fair and Chinatown History walk. I have also climbed 5.12s on lead on slimestone and published 2 short stories and 3 poems in Canadian anthologies and magazines.
 
 Now I am doing my best to shift that thirst for hedeonism into a drive for **effective altriusm-based enrepreneurship**. No, this is not techno-utopianism garbage talk but you are right to be skeptical. 
 
