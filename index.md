@@ -70,7 +70,9 @@ https://github.com/yffenim
 - french literature, esp Genet
 - journalism, esp Svetlana Alexievich
 - trauma and mental health
-- kineseology and the power of movement to heal trauma
+- addiction
+- kineseology & athletic grit
+- neuroscience and power of using movement to address addiction, mental health, trauma
 - neurodiversity
 - scheduling for circadian rthymns that are longer than 24 hours
 - cybersecurity/privacy rights
@@ -87,6 +89,8 @@ https://github.com/yffenim
 - drag kings and queens
 - classical and jazz piano, esp chopin, debussy, brad mehdau
 - meditation
+- Peter Attia's work
+- fasting
 - TLP
 
 **Topics I cannot talk about, hear about, or look at your pictures thereof or I will stop doing work:**
