@@ -79,4 +79,5 @@ Topics I cannot talk about, hear about, or look at your pictures thereof or I wi
 
 [![signal-2022-04-28-042234-001.jpg](https://i.postimg.cc/kG5fJqzh/signal-2022-04-28-042234-001.jpg)](https://postimg.cc/G8Zkzwck)
 
+Mask by Yvie Oddly, the S11 lovable creative weirdo of Drag race.
 
