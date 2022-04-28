@@ -2,7 +2,7 @@
  
 ### `whoami`
 
-Current problem: How to detect (ideally automated) and remove cyberbullying from a fully anonymous space?
+Current problem: How to detect (ideally automated) and remove cyberbullying from a fully anonymous online space?
 
 ### `ls` 
 
