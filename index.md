@@ -1,43 +1,85 @@
-# Prophecy 
+# Hi, I'm Effy.
+ 
 
-### Prophecy is an end-to-end encrypted and anonymous whisper network for women, BIPOC, and LGBTQIA in STEM to discuss encounters with power with fear of reprecussion. 
+## `whoami` 
 
-Think Slack meets Glassdoor — only you are guaranteed the right to privacy and safety.
+I'm a **software developer, cyber security consultant, and movement therapist** (personal trainer with a focus on using movement patterns to shift thought patterns). I co-founded a nonprofit that addresses the lack of Consent education. I have produced and launched multiple artists and grassroots groups. I have also climbed 5.12s on lead on slimestone. Now I am doing my best to shift that thirst for hedeonism into a drive for **effective altriusm-based enrepreneurship**. No, this is not techno-utopianism garbage talk but you are right to be skeptical. 
 
-### The Mission
+I come from the humanities where the ethics -- not ego --of what you create informs your decision to do so. An avid reader and over-thinker, I believe in 
+leveraging the current ease and accessibility for developing software (anyone with internet access can make their idea come into existence barring moonshots) towards projects that address the existential risks of our time: the consolidation of authoritarian power and climate change.
 
-Prophecy is about having the freedom to communicate about situations of abuse, corruption, harassment, and the myriad forms of aggression that drive minorities to leave STEM. Actually, Let's be real. Women are not a minority; we are half the humans on Earth and yet make up only 29% of the science and engineering workforce. **At worst, representation is at 5% (research physics) to 11% (information security).**
+I have a proven track record of project success.
 
-Talking about danger is how humans have survived. Prophecy is place to have these real conversations, protect each other in the future, and thrive.
+## `cd ./Desktop`
 
-### The Team
+### Prophecy: an e2e encrypted and anonymous Whisper network for gender minorities, BIPOC, and LGBTQIA in STEM to discuss encounters with power without fear of reprecussions. 
 
-**Effy Min** is a software engineer with a humanities education and an activism career. An avid reader and overthinker, she is increasingly troubled by the quiet consolidation of user data for behavioural modification research (or in polite circles: user analytics). 
+Learn more about **Prophecy** here: https://write.as/riwq8jhgr1j0tw6q.md
 
-**Axiel Birenbaum** is a research physicist applying mathematical and computational methods to material science. In other words, they use the world’s largest computers to understand solids at the smallest scale and design tomorrow’s energy materials. https://aybirenbaum.com/
+We are currently seeking informal user interviews. If you are a gender minority in STEM, especially SWE, infosec, EE, Nuclear E, or academia, please don't hesitate to voice your existence to us because we want to make sure the project addresses YOUR lived needs.
 
-### How can you help?
+### Day Off: an app that helps you connect with your community's needs and volunteer opportunities. 
 
-**We are seeking short, informal interviews of our initial target users to ensure that the project design aligns with your specific needs:**
-- Women in Software Engineering
-- Women in Electrical Engineering
-- Women in Nuclear Engineering
-- Women in Information (Cyber) Security
-- Women STEM Research/Academia. 
-- or WOPOC/LGBTQIA in any STEM field
+Prototype development Summer 2022. Alpha testers in GTA high schools Fall 2022.
 
-**If you are or you know someone whose voice should be heard, please contact Effy at:** effymmin@protonmail.com
 
-**Or schedule an interview with Effy and leave your contact in the notes:** https://calendly.com/effymin
+## `cd ./Documents`
 
-### Why is this needed?
+https://www.linkedin.com/in/effy-min-25156a228/
 
-https://aybirenbaum.files.wordpress.com/2019/03/aybirenbaum-pridetalk.pdf
+https://github.com/yffenim
 
-https://aybirenbaum.files.wordpress.com/2019/03/dandiatornl.pdf
 
-https://aybirenbaum.files.wordpress.com/2018/10/diversityinstem-hiring_and_retaining-general.pdf
+## `vim .bash_history`
 
-https://www.lioness.co/ 
+**2022-present** - Cybersecurity Consulting for individuals and small enterprises; Developer and contributer to open source software. 
 
-https://www.yalescientific.org/2020/11/by-the-numbers-women-in-stem-what-do-the-statistics-reveal-about-ongoing-gender-disparities/
+**2017-present** - Produced multiple artists and grassroots groups, including the Canadian Polaris Prize winner singer Lido Pimienta and the Where Are You From Collective who run Toronto's Asian Zine Fair and Chinatown History walk. 
+
+**2014-2017** - Co-founder and Executive Directory of Bad Subject, a grassroots non-profit that offers activities-based workshops on Consent, Media Literacy, and Anti-Oppression. We created teaching material after Consent was added to the curriculum and worked with legal reps to rehabilitate convicts.
+
+
+## `ls -alh`
+
+### Currently on my mind: 
+
+How do detect (ideally automated) and remove cyberbullying from a fully anonymous space?
+
+### Topics of interest we might have in common that could led to a nice friendship or at least a satisfying conversation:
+- change
+- the literary canon, esp DFW
+- the post-colonial literary canon, post-apartheid SA
+- russian literature, esp Nabokov
+- poststructuralism, esp Lacan or specifically, Barthes' S/Z
+- french literature, esp Balzac
+- trauma and mental health
+- kineseology and the power of movement to heal trauma
+- neurodiversity
+- circadian sleep schedules that are longer than 24 hours
+- cybersecurity/privacy rights
+- software development
+- design principles, best practices, or prefered stacks for react/react-native
+- Google's research into behavioural modification
+- "The Age of Surveillance Capitalism" By Zubuff (https://we.riseup.net/assets/533560/Zuboff%2C+Shoshana.The+Age+of+Surveillance+Capitalism.2019.pdf)
+- effective altruism
+- existential risk
+- distraction as status quo
+- narcissism not as self-obsession/vanity but acts of apathy
+- contemporary art
+- classical and jazz piano, esp chopin, debussy, brad mehdau
+- meditation
+- TLP
+
+Topics I cannot talk about, hear about, or look at your pictures thereof or I will stop doing work:
+- rock climbing
+
+### Here are some deeply unprofessional photos of me where you can't really see what I look like because, what is this? Linkedin? No, this is my static web page made to avoid directing you to Linkedin all the time. 
+
+
+[![signal-2022-04-28-042234-001.jpg](https://i.postimg.cc/kG5fJqzh/signal-2022-04-28-042234-001.jpg)](https://postimg.cc/G8Zkzwck)
+
+[![signal-2022-04-28-042234-002.jpg](https://i.postimg.cc/9XxLxwq3/signal-2022-04-28-042234-002.jpg)](https://postimg.cc/3WvjNRB9)
+
+[![signal-2022-04-28-042612.jpg](https://i.postimg.cc/y89dQ9xv/signal-2022-04-28-042612.jpg)](https://postimg.cc/WdNTtdMk)
+
+Sadly, I'm no longer jacked bc overdid it and injured, still. 
