@@ -73,13 +73,10 @@ How do detect (ideally automated) and remove cyberbullying from a fully anonymou
 Topics I cannot talk about, hear about, or look at your pictures thereof or I will stop doing work:
 - rock climbing
 
-### Here are some deeply unprofessional photos of me where you can't really see what I look like because, what is this? Linkedin? No, this is my static web page made to avoid directing you to Linkedin all the time. 
+## `cd ./Photos`
 
+### Here is a highly unprofessional photo of me where you can't really see what I look like because (1) #security and (2) what is this? Linkedin? No, this is my static web page made to avoid directing you to Linkedin all the time. 
 
 [![signal-2022-04-28-042234-001.jpg](https://i.postimg.cc/kG5fJqzh/signal-2022-04-28-042234-001.jpg)](https://postimg.cc/G8Zkzwck)
 
-[![signal-2022-04-28-042234-002.jpg](https://i.postimg.cc/9XxLxwq3/signal-2022-04-28-042234-002.jpg)](https://postimg.cc/3WvjNRB9)
 
-[![signal-2022-04-28-042612.jpg](https://i.postimg.cc/y89dQ9xv/signal-2022-04-28-042612.jpg)](https://postimg.cc/WdNTtdMk)
-
-Sadly, I'm no longer jacked bc overdid it and injured, still. 
