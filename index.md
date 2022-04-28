@@ -71,7 +71,7 @@ https://github.com/yffenim
 - journalism, esp Svetlana Alexievich
 - trauma and mental health
 - addiction
-- kineseology & athletic grit
+- kinesiology & athletic grit
 - neuroscience and power of using movement to address addiction, mental health, trauma
 - neurodiversity
 - scheduling for circadian rthymns that are longer than 24 hours
