@@ -52,6 +52,8 @@ https://github.com/yffenim
 
 **2022 - present** - Cybersecurity Consulting for individuals and small enterprises; Developer and contributer to open source software. 
 
+**2019 - present - Movement Therapist (read: personal trainer with a focus on using movement patterns to shift thought patterns)
+
 **2017 - present** - Produced multiple artists and grassroots groups. 94% success rate on grant submissions.
 
 **2014 - 2017** - Co-founder and Executive Directory of Bad Subject, a grassroots non-profit that offers activities-based workshops on Consent, Media Literacy, and Anti-Oppression. We created teaching material after Consent was added to the curriculum and worked with legal reps to rehabilitate convicts.
@@ -62,14 +64,15 @@ https://github.com/yffenim
 **Topics of interest we might have in common that could led to a nice friendship or at least a satisfying conversation:**
 - change
 - the literary canon, esp DFW
-- the post-colonial literary canon, post-apartheid SA
-- russian literature, esp Nabokov
+- the post-colonial literary canon, esp post-apartheid SA
+- russian literature, esp Nabokov minus the popular one
 - poststructuralism, esp Lacan or specifically, Barthes' S/Z
-- french literature, esp Balzac
+- french literature, esp Genet
+- journalism, esp Svetlana Alexievich
 - trauma and mental health
 - kineseology and the power of movement to heal trauma
 - neurodiversity
-- circadian sleep schedules that are longer than 24 hours
+- scheduling for circadian rthymns that are longer than 24 hours
 - cybersecurity/privacy rights
 - software development
 - design principles, best practices, or prefered stacks for react/react-native
