@@ -36,7 +36,7 @@ I'm working on **Prophecy**, an e2e encrypted and anonymous Whisper network for 
 Learn more about **Prophecy** here: https://write.as/riwq8jhgr1j0tw6q.md
 
 
-I'm also working on **Day Off:** is an app that helps you connect with your community's needs and volunteer opportunities. 
+I'm also working on **Day Off:** an app that helps you connect with your community's needs and volunteer opportunities. 
 
 Prototype development Summer 2022. Alpha testers in GTA high schools Fall 2022.
 
@@ -52,9 +52,9 @@ https://github.com/yffenim
 
 **2022 - present** - Cybersecurity Consulting for individuals and small enterprises; Developer and contributer to open source software. 
 
-**2019 - present - Movement Therapist (read: personal trainer with a focus on using movement patterns to shift thought patterns)
+**2019 - present** - Movement Therapist (personal training with a focus on using movement patterns to shift thought patterns by centering CNS-activation, BDNF growth, and proprioception-patterning training methods)
 
-**2017 - present** - Produced multiple artists and grassroots groups. 94% success rate on grant submissions.
+**2017 - present** - Produced multiple artists and grassroots groups by finding the right people for the work and writing the initial grants. 94% success rate on grant submissions.
 
 **2014 - 2017** - Co-founder and Executive Directory of Bad Subject, a grassroots non-profit that offers activities-based workshops on Consent, Media Literacy, and Anti-Oppression. We created teaching material after Consent was added to the curriculum and worked with legal reps to rehabilitate convicts.
 
