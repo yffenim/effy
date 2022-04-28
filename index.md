@@ -1,20 +1,23 @@
 # Hi, I'm Effy.
  
+ 
 # `whoami`
 
-### Current problem: How to detect (ideally automated) and remove cyberbullying from a fully anonymous online space?
+### Currently working on: How to detect (ideally automated) and remove cyberbullying from a fully anonymous online space?
+
 
 # `ls` 
 
-### I'm a **software developer, cyber security consultant, and movement therapist** (personal trainer with a focus on using movement patterns to shift thought patterns). 
+I'm a **software developer, cyber security consultant, and movement therapist** (personal trainer with a focus on using movement patterns to shift thought patterns). 
 
-### **I co-founded a nonprofit** that addresses the lack of Consent education. I have **produced and launched multiple artists and grassroots groups**, including the Canadian Polaris Prize winner singer Lido Pimienta and the Where Are You From Collective who run Toronto's Asian Zine Fair and Chinatown History walk. I have also climbed 5.12s on lead on slimestone. 
+**I co-founded a nonprofit** that addresses the lack of Consent education. I have **produced and launched multiple artists and grassroots groups**, including the Canadian Polaris Prize winner singer Lido Pimienta and the Where Are You From Collective who run Toronto's Asian Zine Fair and Chinatown History walk. I have also climbed 5.12s on lead on slimestone. 
 
-### Now I am doing my best to shift that thirst for hedeonism into a drive for **effective altriusm-based enrepreneurship**. No, this is not techno-utopianism garbage talk but you are right to be skeptical. 
+Now I am doing my best to shift that thirst for hedeonism into a drive for **effective altriusm-based enrepreneurship**. No, this is not techno-utopianism garbage talk but you are right to be skeptical. 
 
-### I come from the humanities where the ethics -- not ego --of what you create informs your decision to do so. An avid reader and over-thinker, I believe in leveraging the current ease and accessibility for developing software towards **projects that address the existential risks of our time: the consolidation of authoritarian power and climate change.**
+I come from the humanities where the ethics -- not ego --of what you create informs your decision to do so. An avid reader and over-thinker, I believe in leveraging the current ease and accessibility for developing software towards **projects that address the existential risks of our time: the consolidation of authoritarian power and climate change.**
 
-### I have a proven track record of multi-domain project success.
+I have a proven track record of multi-domain project success.
+
 
 # `cd ./Photos`
 
@@ -22,15 +25,17 @@
 
 Mask by Yvie Oddly, the S11 lovable creative weirdo of Drag Race.
 
+
 # `cd ./Desktop`
 
-### I'm working on **Prophecy**, an e2e encrypted and anonymous Whisper network for gender minorities, BIPOC, and LGBTQIA in STEM to discuss encounters with power without fear of reprecussions. 
+I'm working on **Prophecy**, an e2e encrypted and anonymous Whisper network for gender minorities, BIPOC, and LGBTQIA in STEM to discuss encounters with power without fear of reprecussions. 
 
-### Learn more about **Prophecy** here: https://write.as/riwq8jhgr1j0tw6q.md
+Learn more about **Prophecy** here: https://write.as/riwq8jhgr1j0tw6q.md
 
-### I'm also working on **Day Off:** is an app that helps you connect with your community's needs and volunteer opportunities. 
 
-### Prototype development Summer 2022. Alpha testers in GTA high schools Fall 2022.
+I'm also working on **Day Off:** is an app that helps you connect with your community's needs and volunteer opportunities. 
+
+Prototype development Summer 2022. Alpha testers in GTA high schools Fall 2022.
 
 
 # `cd ./Documents`
@@ -42,16 +47,16 @@ https://github.com/yffenim
 
 # `vim .bash_history`
 
-### **2022 - present** - Cybersecurity Consulting for individuals and small enterprises; Developer and contributer to open source software. 
+**2022 - present** - Cybersecurity Consulting for individuals and small enterprises; Developer and contributer to open source software. 
 
-### **2017 - present** - Produced multiple artists and grassroots groups. 94% success rate on grant submissions.
+**2017 - present** - Produced multiple artists and grassroots groups. 94% success rate on grant submissions.
 
-### **2014 - 2017** - Co-founder and Executive Directory of Bad Subject, a grassroots non-profit that offers activities-based workshops on Consent, Media Literacy, and Anti-Oppression. We created teaching material after Consent was added to the curriculum and worked with legal reps to rehabilitate convicts.
+**2014 - 2017** - Co-founder and Executive Directory of Bad Subject, a grassroots non-profit that offers activities-based workshops on Consent, Media Literacy, and Anti-Oppression. We created teaching material after Consent was added to the curriculum and worked with legal reps to rehabilitate convicts.
 
 
 # `ls -alh`
 
-### **Topics of interest we might have in common that could led to a nice friendship or at least a satisfying conversation:**
+**Topics of interest we might have in common that could led to a nice friendship or at least a satisfying conversation:**
 - change
 - the literary canon, esp DFW
 - the post-colonial literary canon, post-apartheid SA
