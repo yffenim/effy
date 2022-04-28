@@ -5,6 +5,9 @@
 
 ### Currently working on: How to detect (ideally automated) and remove cyberbullying from a fully anonymous online space?
 
+# `man formatting`
+
+Yes, I know this page is weirdly formatted. It was free, fast, and the standard "I have better things to do than UI" excuse of my industry.
 
 # `ls` 
 
