@@ -74,6 +74,7 @@ https://github.com/yffenim
 - neurodiversity
 - scheduling for circadian rthymns that are longer than 24 hours
 - cybersecurity/privacy rights
+- network forensics, esp wireshark
 - software development
 - design principles, best practices, or prefered stacks for react/react-native
 - Google's research into behavioural modification
@@ -83,10 +84,11 @@ https://github.com/yffenim
 - distraction as status quo
 - narcissism not as self-obsession/vanity but acts of apathy
 - contemporary art
+- drag kings and queens
 - classical and jazz piano, esp chopin, debussy, brad mehdau
 - meditation
 - TLP
 
-Topics I cannot talk about, hear about, or look at your pictures thereof or I will stop doing work:
+**Topics I cannot talk about, hear about, or look at your pictures thereof or I will stop doing work:**
 - rock climbing
 
