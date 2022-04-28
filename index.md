@@ -56,7 +56,7 @@ https://github.com/yffenim
 
 **2017 - present** - Produced multiple artists and grassroots groups by finding the right people for the work and writing the initial grants. 94% success rate on grant submissions.
 
-**2014 - 2017** - Co-founder and Executive Directory of Bad Subject, a grassroots non-profit that offers activities-based workshops on Consent, Media Literacy, and Anti-Oppression. We created teaching material after Consent was added to the curriculum and worked with legal reps to rehabilitate convicts.
+**2014 - 2017** - Co-founder and Executive Directory of Bad Subject, a grassroots non-profit that offers activities-based workshops on Consent, Media Literacy, and Anti-Oppression. We created teaching material after Consent was added to the provincial curriculum and worked with legal reps to rehabilitate convicts.
 
 
 # `ls -alh`
