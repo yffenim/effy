@@ -87,7 +87,10 @@ https://github.com/yffenim
 - narcissism not as self-obsession/vanity but acts of apathy
 - contemporary art
 - drag kings and queens
-- classical and jazz piano, esp chopin, debussy, brad mehdau
+- melancholia, the affect and the film
+- gaspar noe
+- all music
+- playing classical or jazz piano, esp chopin, debussy, brad mehdau
 - meditation
 - Peter Attia's work
 - fasting
