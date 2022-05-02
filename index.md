@@ -7,7 +7,7 @@
 
 # `man formatting`
 
-Yes, I know this page is weirdly formatted. It was free, fast, and "the standard `I have better things to do than UI` excuse" of my industry.
+Yes, I know this page is weirdly formatted. It was free, fast, and the standard `I have better things to do than UI` excuse of my industry.
 
 # `ls` 
 
@@ -77,6 +77,7 @@ https://github.com/yffenim
 - scheduling for circadian rthymns that are longer than 24 hours
 - cybersecurity/privacy rights
 - network forensics, esp wireshark
+- AI ethics
 - software development
 - design principles, best practices, or prefered stacks for react/react-native
 - Google's research into behavioural modification
