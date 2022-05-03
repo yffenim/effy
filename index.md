@@ -19,7 +19,7 @@ Now I am doing my best to shift that thirst for hedonism into a drive for **effe
 
 I come from the humanities where the ethics -- not ego --of what you create informs your decision to do so. An avid reader and over-thinker, I believe in leveraging the current ease and accessibility for developing software towards **projects that address the existential risks of our time: the consolidation of authoritarian power and climate change.**
 
-So what I'm saying is that I have a proven track record of multi-domain project success. ;)
+So in corporate-speak: I have a proven track record of multi-domain project success. ;)
 
 
 # `cd ./Photos`
