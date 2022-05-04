@@ -24,9 +24,7 @@ So in corporate-speak: I have a proven track record of multi-domain project succ
 
 # `cd ./Photos`
 
-[![aed7ed58-7d9b-4fea-b319-1ced080bc7b4.jpg](https://i.postimg.cc/cCGGFs1j/aed7ed58-7d9b-4fea-b319-1ced080bc7b4.jpg)](https://postimg.cc/8J4Y5g6B)
-
-Mask by Yvie Oddly, the S11 lovable creative weirdo of Drag Race.
+[![ALICE.jpg](https://i.postimg.cc/wjW0s868/ALICE.jpg)](https://postimg.cc/v4VWpKg3)
 
 
 # `cd ./Desktop`
