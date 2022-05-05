@@ -54,13 +54,26 @@ https://github.com/yffenim
 
 **2017 - present** - Produced multiple artists and grassroots groups by finding the right people for the work and writing the initial grants. 94% success rate on grant submissions.
 
-**2014 - 2017** - Co-founder and Executive Directory of Bad Subject, a grassroots non-profit that offers activities-based workshops on Consent, Media Literacy, and Anti-Oppression to youth, educators, and professionals. We created teaching material after Consent was added to the provincial curriculum and worked with legal reps to rehabilitate convicts.
+**2014 - 2017** - Co-founder and Executive Director of Bad Subject, a grassroots non-profit that offers activities-based workshops on Consent, Media Literacy, and Anti-Oppression to youth, educators, and professionals. We created teaching material after Consent was added to the provincial curriculum and worked with legal reps to rehabilitate convicts.
 
 
 # `ls -alh`
 
 **Topics of interest we might have in common that could led to a nice friendship or at least a satisfying conversation:**
 - change
+- kinesiology & athletic grit
+- neuroscience and power of using movement to address addiction, mental health, trauma
+- neurodiversity
+- scheduling for circadian rthymns that are longer than 24 hours
+- cybersecurity/privacy rights
+- network forensics, esp wireshark
+- AI ethics
+- software engineering
+- design principles, best practices, or prefered stacks for react/react-native
+- Google's research into behavioural modification
+- "The Age of Surveillance Capitalism" By Zubuff (https://we.riseup.net/assets/533560/Zuboff%2C+Shoshana.The+Age+of+Surveillance+Capitalism.2019.pdf)
+- effective altruism
+- existential risk
 - the literary canon, esp DFW
 - the post-colonial literary canon, esp post-apartheid SA
 - russian literature, esp Nabokov minus the popular one
@@ -69,19 +82,6 @@ https://github.com/yffenim
 - journalism, esp Svetlana Alexievich
 - trauma and mental health
 - addiction
-- kinesiology & athletic grit
-- neuroscience and power of using movement to address addiction, mental health, trauma
-- neurodiversity
-- scheduling for circadian rthymns that are longer than 24 hours
-- cybersecurity/privacy rights
-- network forensics, esp wireshark
-- AI ethics
-- software development
-- design principles, best practices, or prefered stacks for react/react-native
-- Google's research into behavioural modification
-- "The Age of Surveillance Capitalism" By Zubuff (https://we.riseup.net/assets/533560/Zuboff%2C+Shoshana.The+Age+of+Surveillance+Capitalism.2019.pdf)
-- effective altruism
-- existential risk
 - distraction as status quo
 - narcissism not as self-obsession/vanity but acts of apathy
 - contemporary art
@@ -98,4 +98,4 @@ https://github.com/yffenim
 **Topics I cannot talk about, hear about, or look at your pictures thereof or I will stop doing work:**
 - rock climbing
 
-**so, you wanna start something?**
+**so, shall we do lunch?**
