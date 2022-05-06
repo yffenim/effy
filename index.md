@@ -4,7 +4,8 @@
  
 # `whoami`
 
-### I am a software developer, cybersecurity consultant, personal trainer, and founder of an NGO that offers Consent education. 
+### I am a software developer, cybersecurity consultant, personal trainer, and co-founder of an NGO that offers Consent education. 
+
 
 
 # `ps -eo pcpu,pid,user,args | sort -k1 -r -n | head`
@@ -15,6 +16,7 @@ Currently looking for **introductions to people/entities working on fighting the
 
 Understand why:
 https://shoshanazuboff.com/book/about/
+
 https://www.amnesty.org/en/documents/pol30/1404/2019/en/
 
 
