@@ -3,17 +3,16 @@
  
 # `whoami`
 
-### Currently working on: How to detect (ideally automate) and remove cyberbullying from a fully anonymous online space?
+### Currently seeking user interviews for Prophecy: https://write.as/riwq8jhgr1j0tw6q.md
 
-# `man formatting`
+### Current looking to volunteer for: companies, organizations, or individuals working on fighting surveillance capitalism (privacy rights( in the name of democracy. 
 
-Yes, I know this page is weirdly formatted. It was free, fast, and the standard `I have better things to do than UI` excuse of my industry.
 
 # `ls` 
 
-I'm a **software developer, cyber security consultant, and movement therapist** (personal trainer with a focus on using movement patterns to shift thought patterns). 
+I'm a **software developer, cyber security consultant, and personal trainer**. Currently, I create fast, full-stack prototypes for new start-ups, including backend development, web apps, mobile (Android and IOS), and secure deployment. My stack is React, React-Native, Ruby on Rails, SQL or noSQL (specifically: PostGres, MongoDB, SQLite).  
 
-**I co-founded a nonprofit** that addresses the lack of Consent education. I have **produced and launched multiple artists and grassroots groups**, including the Canadian Polaris Prize winner singer Lido Pimienta and the Where Are You From Collective who run Toronto's Asian Zine Fair and Chinatown History walk. I have also climbed 5.12s on lead on slimestone and published prose and poetry in Canadian anthologies and magazines.
+**Previously, I co-founded a nonprofit** that addresses the lack of Consent education. I have **produced and launched multiple artists and grassroots groups**, including the Canadian Polaris Prize winner singer Lido Pimienta and the Where Are You From Collective who run Toronto's Asian Zine Fair and Chinatown History walk. I have also climbed 5.12s on lead on slimestone and published prose and poetry in Canadian anthologies and magazines.
 
 Now I am doing my best to shift that thirst for hedonism into a drive for **effective altriusm-based entrepreneurship**. No, this is not techno-utopianism garbage talk but you are right to be skeptical. 
 
@@ -98,4 +97,4 @@ https://github.com/yffenim
 **Topics I cannot talk about, hear about, or look at your pictures thereof or I will stop doing work:**
 - rock climbing
 
-**so, shall we do lunch?**
+**so, lunch?**
