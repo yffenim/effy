@@ -1,11 +1,17 @@
 # Hi, I'm Effy.
- 
+
+
  
 # `whoami`
 
 ### I am a software developer, cybersecurity consultant, personal trainer, and founder of an NGO that offers Consent education. 
 
-**I'm looking for introductions to people/entities working on fighting the status quo of surveillance capitalism** in tech so I can devote my life's work to this sphere.
+
+# `ls`
+
+Currently brainstorming on **Prophecy**: https://write.as/riwq8jhgr1j0tw6q.md
+
+Currently looking for **introductions to people/entities working on fighting the status quo of surveillance capitalism** in tech.
 
 Not sure what surveillance capitalism is?
 
@@ -21,9 +27,7 @@ Yes, I know this page is weirdly formatted. It was free, fast, and the standard 
 
 # `ls` 
 
-Currently brainstorming: https://write.as/riwq8jhgr1j0tw6q.md
-
-I create **fast, full-stack prototypes for new start-ups**, including backend development, web apps, mobile (Android and IOS), and secure deployment. My stack is React, React-Native, Ruby on Rails, SQL or noSQL (specifically: PostGres, MongoDB, SQLite).  
+Currently, I create **fast, full-stack prototypes for new start-ups**, including backend development, web apps, mobile (Android and IOS), and secure deployment. My stack is React, React-Native, Ruby on Rails, SQL or noSQL (specifically: PostGres, MongoDB, SQLite).  
 
 **Previously, I co-founded a nonprofit** that addresses the lack of Consent education. I have **produced and launched multiple artists and grassroots groups**, including the Canadian Polaris Prize winner singer Lido Pimienta and the Where Are You From Collective who run Toronto's Asian Zine Fair and Chinatown History walk. I have also climbed 5.12s on lead on slimestone and published prose and poetry in Canadian anthologies and magazines.
 
