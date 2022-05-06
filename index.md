@@ -7,16 +7,14 @@
 ### I am a software developer, cybersecurity consultant, personal trainer, and founder of an NGO that offers Consent education. 
 
 
-# `htop`
+# `ps -eo pcpu,pid,user,args | sort -k1 -r -n | head`
 
 Currently brainstorming on **Prophecy**: https://write.as/riwq8jhgr1j0tw6q.md
 
 Currently looking for **introductions to people/entities working on fighting the status quo of surveillance capitalism** in tech.
 
-Not sure what surveillance capitalism is?
-
+Understand why:
 https://shoshanazuboff.com/book/about/
-
 https://www.amnesty.org/en/documents/pol30/1404/2019/en/
 
 
