@@ -20,7 +20,7 @@ https://www.amnesty.org/en/documents/pol30/1404/2019/en/
 
 # `man formatting`
 
-Yes, I know this page is weirdly formatted. It was free, fast, and the standard I have better things to do than UI excuse of my industry.
+Yes, I know this page is weirdly formatted. It was free, fast, and the standard `I have better things to do than UI excuse` of my industry.
 
 
 # `ls` 
