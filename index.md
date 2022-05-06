@@ -5,7 +5,7 @@
 
 ### I am a software developer, cybersecurity consultant, personal trainer, and founder of an NGO that offers Consent education. 
 
-**I'm Looking for introductions to people/entities working on fighting the status quo of surveillance capitalism** in tech so I can devote my life's work to this sphere.
+**I'm looking for introductions to people/entities working on fighting the status quo of surveillance capitalism** in tech so I can devote my life's work to this sphere.
 
 Not sure what surveillance capitalism is?
 
