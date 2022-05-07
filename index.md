@@ -60,9 +60,9 @@ https://github.com/yffenim
 
 # `vim .bash_history`
 
-**2022 - present** - Cybersecurity Consulting for individuals and small enterprises; Developer and contributer to open source software. 
+**2022 - present** - Full-Stack Developer && Cybersecurity Consultant.
 
-**2019 - present** - Movement Therapist (personal training with a focus on using movement patterns to shift thought patterns by centering CNS-activation, BDNF growth, and proprioception-patterning training methods)
+**2018 - present** - Movement Therapist (personal training with a focus on using movement patterns to shift thought patterns by centering CNS-activation, BDNF growth, and proprioception-patterning training methods)
 
 **2017 - present** - Produced multiple artists and grassroots groups by finding the right people for the work and writing the initial grants. 94% success rate on grant submissions.
 
@@ -71,7 +71,7 @@ https://github.com/yffenim
 
 # `ls -alh`
 
-**Topics of interest we might have in common that could led to a nice friendship or at least a satisfying conversation:**
+**Topics of interest we might have in common that could lead to a nice friendship or at least a satisfying conversation:**
 - change
 - the rising global authoritarianism powered by surveillance capitalism models and apathy
 - kotlin, swift, flutter, react-native: your opinions
