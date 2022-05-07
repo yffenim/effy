@@ -2,22 +2,18 @@
 
 
  
+
 # `whoami`
 
 ### I am a software developer, cybersecurity consultant, personal trainer, and co-founder of an NGO that offers Consent education. 
 
 
+# `lsof`
 
-# `ps -eo pcpu,pid,user,args | sort -k1 -r -n | head`
 
 Currently brainstorming on **Prophecy**: https://write.as/riwq8jhgr1j0tw6q.md
 
-Currently looking for **introductions to people/entities working on fighting the status quo of surveillance capitalism** in tech.
-
-Understand why:
-https://shoshanazuboff.com/book/about/
-
-https://www.amnesty.org/en/documents/pol30/1404/2019/en/
+&& looking for **introductions to companies, organizations, and individuals working on fighting the status quo role of surveillance capitalism** in fueling rising authoritarian powers. I will do any tech-based volunteer labour on this topic.
 
 
 # `man formatting`
@@ -73,10 +69,14 @@ https://github.com/yffenim
 **2014 - 2017** - Co-founder and Executive Director of Bad Subject, a grassroots non-profit that offers activities-based workshops on Consent, Media Literacy, and Anti-Oppression to youth, educators, and professionals. We created teaching material after Consent was added to the provincial curriculum and worked with legal reps to rehabilitate convicts.
 
 
-# ``
+# `ls -alh`
 
 **Topics of interest we might have in common that could led to a nice friendship or at least a satisfying conversation:**
 - change
+- the rising global authoritarianism powered by surveillance capitalism models and apathy
+- kotlin, swift, flutter, react-native: your opinions
+
+**Topics, the long list:**
 - kinesiology & athletic grit
 - neuroscience and power of using movement to address addiction, mental health, trauma
 - neurodiversity
@@ -88,6 +88,7 @@ https://github.com/yffenim
 - design principles, best practices, or prefered stacks for react/react-native
 - Google's research into behavioural modification
 - "The Age of Surveillance Capitalism" By Zubuff (https://we.riseup.net/assets/533560/Zuboff%2C+Shoshana.The+Age+of+Surveillance+Capitalism.2019.pdf)
+- https://www.amnesty.org/en/documents/pol30/1404/2019/en/
 - effective altruism
 - existential risk
 - the literary canon, esp DFW
