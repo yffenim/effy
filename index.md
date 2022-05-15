@@ -5,7 +5,7 @@
 
 # `whoami`
 
-### I am a software developer, cybersecurity consultant, personal trainer, and co-founder of an NGO that offers Consent education. 
+### I am a software developer, cybersecurity consultant, personal trainer, grants-writer, and co-founder of an NGO that offers Consent education. Not all concurrently. 
 
 
 # `lsof`
@@ -31,7 +31,7 @@ Now I am doing my best to shift that thirst for hedonism into a drive for **effe
 
 I come from the humanities where the ethics -- not ego --of what you create informs your decision to do so. An avid reader and over-thinker, I believe in leveraging the current ease and accessibility for developing software towards **projects that address the existential risks of our time: the consolidation of authoritarian power and climate change.**
 
-So in corporate-speak: I have a proven track record of multi-domain project success. ;)
+Or, in LinkedIn-Lunatic-Speak: I have a proven track record of multi-domain project success!! Agree? Agree? Agree? [Confused?](https://www.reddit.com/r/LinkedInLunatics/ 'Linkedin Lunatics')
 
 
 # `cd ./Photos`
