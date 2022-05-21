@@ -5,7 +5,7 @@
 
 # `whoami`
 
-### I am a software developer, cybersecurity consultant, personal trainer, grants-writer, and co-founder of an NGO that offers Consent education. Not all concurrently. 
+### I am a software developer, cybersecurity consultant, and personal trainer. Previously, I was a professional grants-writer and co-founder of an NGO that offers Consent education. 
 
 
 # `lsof`
